@@ -1,0 +1,8 @@
+{
+    "hosting": {
+      "site": "journaldebord-f28c7",
+  
+      "public": "public",
+     "private": "private"
+    }
+  }
